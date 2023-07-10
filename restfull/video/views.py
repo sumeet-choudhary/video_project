@@ -124,3 +124,4 @@ class OnlyGet(Resource):
 api.add_resource(Video, '/<video_id>')
 api.add_resource(OnlyGet, '/')
 
+print()
